@@ -1,0 +1,3 @@
+satu,is,one
+dua,iss,Two
+tiga,isss,THREE
